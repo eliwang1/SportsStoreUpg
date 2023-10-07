@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SportsStore.WebUICore
+build_property.RootNamespace = SportsStore.WebUICore
+build_property.ProjectDir = C:\pro\pro\pro-asp.net-core-6-main\SportsStore09\SportsStore.WebUICore\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\pro\pro\pro-asp.net-core-6-main\SportsStore09\SportsStore.WebUICore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Cart/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb21wbGV0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Cart/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Nav/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2XE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Product/List09.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0MDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Shared/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvbk1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Shared/ProductSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb2R1Y3RTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/pro/pro/pro-asp.net-core-6-main/SportsStore09/SportsStore.WebUICore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
