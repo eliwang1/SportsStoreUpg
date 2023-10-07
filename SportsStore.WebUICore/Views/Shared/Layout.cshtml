@@ -19,7 +19,7 @@
             {
              <a class="btn @(product == ViewBag.SelectedCategory 
                 ? "btn-primary": "btn-outline-secondary")"
-           asp-action="Index" asp-controller="Product"
+           asp-action="List" asp-controller="Product"
            asp-route-category="@product"
            asp-route-productPage="1">
             @product
